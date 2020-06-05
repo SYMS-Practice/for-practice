@@ -21,5 +21,7 @@ public class CalenderClass {
 		
 		c.set(Calendar.DATE, 1);
 		System.out.println("set to 1:\t" + c.getTime());
+		
+		System.out.println("시험용코드입니다.");
 	}
 }
